@@ -11,7 +11,7 @@ A full-stack **Task Management Web Application** that allows users to:
 
 ## 🚀 Live Demo
 
-**Frontend:** [Video Link]([https://todo-task-manager-532f.vercel.app](https://drive.google.com/file/d/1bQiX7FoOri1kZrrZvOs7HXJlkDWuiJmK/view?usp=drive_link))  
+**Frontend:** [Video Link]([https://drive.google.com/file/d/1bQiX7FoOri1kZrrZvOs7HXJlkDWuiJmK/view?usp=drive_link])
 
 
 ---
